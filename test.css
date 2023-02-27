@@ -1,0 +1,68 @@
+.p1 {
+    width: 300px;
+    height: 400px;
+
+}
+
+.p2 {
+    width: 300px;
+    height: 400px;
+
+}
+
+.p3 {
+    width: 300px;
+    height: 400px;
+
+}
+
+.p4 {
+    width: 300px;
+    height: 400px;
+
+}
+
+.footer img {
+    width: 500px;
+}
+
+.para1 {
+    color: white;
+    margin-left: 25px;
+    text-align: justify;
+    font-family: monospace;
+}
+
+.footer a:hover {
+    color: red;
+
+}
+
+.footer a {
+    color: white;
+    font-family: monospace;
+    font-size: larger;
+    margin-left: 50px;
+
+}
+
+.footer h2 {
+    font-family: monospace;
+    color: red;
+    margin-left: 50px;
+}
+
+.footer hr {
+    margin-left: 50px;
+
+}
+
+.icons i {
+font-size: 50px;
+color:chartreuse;
+margin-top: 50px;
+margin-left: 50px;
+}
+.icons i:hover{
+color:crimson;
+}
